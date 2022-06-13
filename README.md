@@ -6,7 +6,5 @@ I have previously made a game in Javascript using PixiJS called "Tuna Game". Pix
 
 
 Hexi: https://github.com/kittykatattack/hexi
-
 PixiJS: https://pixijs.com/
-
 Tuna Game: https://github.com/Gabe2008/Tuna_Game
